@@ -80,6 +80,13 @@ void debug_settings::save(const std::string &filename)
 }
 //]
 
+// Added by Richel Bilderbeek
+// C++14
+auto f() noexcept 
+{
+  return "Hello world\n";
+}
+
 int main()
 {
     try
