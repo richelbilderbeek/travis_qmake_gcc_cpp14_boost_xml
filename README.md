@@ -4,7 +4,7 @@ Minimal project that uses qmake, GCC, C++14, Boost and XML and is tested by Trav
 
 Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
 ---|---
-master|[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_boost_xml.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_boost_graph)
+master|[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_boost_xml.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_boost_xml)
 
 This GitHub is part of:
 
@@ -21,7 +21,7 @@ The goal of this project is to have a clean Travis CI build, with specs:
 Used example code from [this Boost example code](https://www.boost.org/doc/libs/1_70_0/libs/property_tree/examples/debug_settings.cpp).
 
 More complex builds:
- * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_boost_xml.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_boost_xml) Use Boost and XML: [travis_qmake_gcc_cpp17_boost_xml](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp17_boost_graph)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_boost_xml.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17_boost_xml) Use Boost and XML: [travis_qmake_gcc_cpp17_boost_xml](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp17_boost_xml)
 
 Simpler builds:
  * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_boost.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_boost) Add `Boost.Graph`: [travis_qmake_gcc_cpp14_boost](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14_boost)
