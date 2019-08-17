@@ -2,7 +2,7 @@
 
 Minimal project that uses qmake, GCC, C++14, Boost and XML and is tested by Travis CI
 
-Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
+Branch|[![Travis CI logo]([pics/TravisCI.png)](https://travis-ci.org)
 ---|---
 master|[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_boost_xml.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_boost_xml)
 
